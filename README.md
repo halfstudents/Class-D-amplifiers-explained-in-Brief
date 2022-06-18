@@ -4,7 +4,7 @@ Get more info from here: https://www.instructables.com/Say-No-to-Class-D-Explain
 Sign-up using this link and get $54 new user coupon: https://jlcpcb.com/SSR
 
 I made many audio amplifiers using Class AB configuration. But, working with those big amplifiers are very heavy job. These amplifiers need more power, dual supply and heavy rectifiers/filtering circuits. We cannot power these Class AB amplifiers using single SMPS, A linear power supply with center tapped transformer is must.
-Now the real problem comes with car audio system. As mentioner earlier we need a transformer for dual power (12-0-12). To power these amplifiers in car either we have to use an inverter circuit or a high-power DC to DC converter. Which may double the cost of your whole car amplifier. Let's understand working and designing a PCB shield for testing Class D on amplifier. JLCPCB is sponsoring this project, SMT- Assembly service starting from $8.
+Now the real problem comes with car audio system. As mentioner earlier we need a transformer for dual power (12-0-12). To power these amplifiers in car either we have to use an inverter circuit or a high-power DC to DC converter. Which may double the cost of your whole car amplifier. Let's understand working and designing a PCB shield for testing Class D on amplifier. JLCPCB is sponsoring this project, SMT- Assembly service starting from $8. https://jlcpcb.com/SSR
 
 Class D Intro: That’s why I prefer class D amplifiers and they have a lot of features. Class D amplifier can work on single power supply, we can use SMPS or car battery to power them directly. No need of any filter or rectifier circuit after power supply. Provide 90% efficiency over 60% of Class AB. Have a good sound quality (very amazing output power). No need of any heatsink or extra active cooling. And the more special one is they have a very small formfactor and weight.
 
@@ -22,16 +22,18 @@ Because Class D amplifier use a very small part of input signal and amplify it o
 My Class D Amplifier:
 This is TPA3116D2 breadboard compatible shield. The connections are directly connected to the hole pads, which can be inserted directly to breadboard for testing by soldering pin headers.
 
-PCB files:
+PCB files: https://jlcpcb.com/SSR
 I order this breadboard shield in black color, 1.6mmm thickness and Hasl finishing. If you want to use same files as mine then download BOM, Gerber and CPL file from here. Sign-up to JLCPCB using this link and you will get free coupons of $54 as new user coupons. Checkout to JLCPCB from here and turn your projects into products.
 
 Most popular Class D amplifiers:
 1) TPA3116D2/TBA3118D2:
 TPA3116 and 3118 is most popular and widely used amplifier ICs has a maximum output of 100W and 60watt respectively, these are manufactured by TI (get datasheet from here). These amplifiers have stereo channel support, either we can use them to power two different speakers or one big speaker by bridging the output power.
+https://www.instructables.com/Say-No-to-Class-D-Explained/
 
 2) TDA7498:
-The TDA7498 is a dual BTL class-D audio amplifier with single power supply designed for home systems and active speaker applications by St micro-electronics. This small IC can output 200watts RMS or 100+100watt per channel. It comes in a 36-pin PowerSSO package with exposed pad up (EPU) to facilitate mounting a separate heatsink (Get datasheet from here).
+The TDA7498 is a dual BTL class-D audio amplifier with single power supply designed for home systems and active speaker applications by St micro-electronics. This small IC can output 200watts RMS or 100+100watt per channel. It comes in a 36-pin PowerSSO package with exposed pad up (EPU) to facilitate mounting a separate heatsink (Get datasheet from here).  https://www.instructables.com/Say-No-to-Class-D-Explained/
 
 3) PAM 8610/8403:
 These two are low powered class D Ic’s having output power of 30watts and 6 watts respectively. Pam8610 and 8403 development boards are very small that’s why these amplifiers are used in most of the small audio related projects nowadays.
 Because JLCPCB has SMD assembly service in very affordable prices, starting from $8 and support more than 10-Million of components.
+https://www.instructables.com/Say-No-to-Class-D-Explained/
